@@ -9,3 +9,6 @@ body{
     width: 90%;
     margin: 0 auto;
 }
+.form-control.ng-touched.ng-invalid{
+    border: 2px solid red;
+}
